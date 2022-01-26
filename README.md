@@ -1,7 +1,4 @@
-# push-code-to-github
-
-
-Easy to follow steps, git pull origin master or main will give fatal: Couldn't find remote ref main so below steps will work just fine.
+# Easy to follow steps, git pull origin master or main will give fatal: Couldn't find remote ref main so below steps will work just fine.
 
     git init
     git add .
